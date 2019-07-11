@@ -6,4 +6,4 @@ if(kl[0]==0):
    print("0")
 else:
    for i in kl:
-      print(i,end=" ")
+      print(i,end="")
